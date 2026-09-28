@@ -1,9 +1,10 @@
-# Group BlitzwerQ
+# Group - BlitzwerQ
 
-## Who Did What
-| Member | GitHub Username | File |
-|---|---|---|
-| HEIN THANT | 6705142030-design | test_deposit.py |
-| HAN HTOO THWIN | Hinod3suuu | conftest.py |
-| Swan Htet Naing | AchiLeo-shn | test_teardown.py |
+## Team Contributions - Who Did What
+
+| Member | Student ID | GitHub Username | Contribution |
+|---|---|---|---|
+| HEIN THANT | 6705142030 | 6705142030-design | `test_deposit.py` |
+| HAN HTOO THWIN | 6705142005 | Hinod3suuu | `conftest.py` |
+| SWAN HTET NAING | 6705142004 | AchiLeo-shn | `test_teardown.py` |
 
