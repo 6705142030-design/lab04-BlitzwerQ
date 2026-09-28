@@ -3,4 +3,4 @@
 ## Who Did What
 | Member | GitHub Username | File |
 |---|---|---|
-| HEIN THANT | 6705142030-design | test_deposit.py, conftest.py |
+| HEIN THANT | 6705142030-design | test_deposit.py |
