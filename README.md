@@ -23,3 +23,31 @@ Committing saves changes to the local Git repository and records them in the pro
 
 ### Member 4 - How do fixtures reduce duplicated setup code in tests? (6705142003)
 Fixtures allow common setup code to be defined once and reused across multiple tests. This reduces repetition and makes the test files easier to maintain and update.
+
+### Member 5 - What happened during our merge conflict? (6705142023)
+The merge conflict happened because more than one member edited the same section of `README.md` before pulling the latest changes from the shared repository. Git could not automatically decide which version to keep, so we reviewed both versions, kept the correct contributions from each member, removed the conflict markers, and committed the resolved file.
+
+### Conflict Markers
+
+During the conflict, Git marked the different versions using:
+
+```text
+<<<<<<< HEAD
+Our local README changes
+=======
+Changes pulled from the shared repository
+>>>>>>> origin/main```
+
+We kept the valid contributions from both versions because each member had added different required information to the README. After combining the correct content, we removed the conflict markers and saved the resolved version.
+
+## Git Contribution Summary
+The following commit counts show each member's contributions to the shared repository:
+
+```text
+10  HEIN THANT
+5   AungKhantNaing0
+4   Hinod3suuu
+3   Achileo-shn
+3   MinMaungThein
+```
+
