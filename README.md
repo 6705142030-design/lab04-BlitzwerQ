@@ -9,4 +9,9 @@
 | SWAN HTET NAING | 6705142004 | AchiLeo-shn | `test_teardown.py` |
 | AUNG KHANT NAING | 6705142003 | AungKhantNaing0 | `test_shared.py` |
 
+## Reflection Questions
+
+### Member 1. Why was your push rejected, and how did you fix it?  (6705142030)
+
+The push was rejected because the team member did not yet have permission to push changes to the shared repository. We fixed this by adding the member as a collaborator, accepting the invitation, and then pushing the commit again.
 
