@@ -20,3 +20,6 @@ Git could not resolve the conflict automatically because multiple members change
 
 ### Member 3 - What is the difference between committing and pushing? (6705142004)
 Committing saves changes to the local Git repository and records them in the project history. Pushing uploads those commits to the shared GitHub repository so other team members can access them.
+
+### Member 4 - How do fixtures reduce duplicated setup code in tests? (6705142003)
+Fixtures allow common setup code to be defined once and reused across multiple tests. This reduces repetition and makes the test files easier to maintain and update.
